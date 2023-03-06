@@ -1,1 +1,1 @@
-I [website](https://qbunt.com) & work with [these](https://vynyl.com) fine humans.
+I [seldom website](https://qbunt.com) & build tools for the web with [these](https://vynyl.com) fine humans.
